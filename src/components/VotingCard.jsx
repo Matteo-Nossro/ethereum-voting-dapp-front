@@ -1,0 +1,5 @@
+export function VotingCard() {
+    return (
+        <></>
+    )
+}
